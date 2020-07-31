@@ -50,7 +50,6 @@ Here are some zip codes to test!
 
 - Have the temperature turn blue if under 40, and red if above 90.
 - Add the latitude and longitude, humidity, precipitation, and wind speed
-- Add FontAwesome icons
 - Add sunrise and sunset times (look into [the javascript date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)... if you dare!!!)
 - Get the desktop view to work like this:
 
