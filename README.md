@@ -1,12 +1,10 @@
-# Building a weather app!!
+# Building a weather app... with React!!
 
-Here's an exciting challenge: You'll be building a small weather app, using your newfound skills with APIs!
+Ever made a weather app using APIs? Ever made a weather app using APIs... _with React?_
 
 ## Setting up
 
 #### 🚀 Make sure you follow all of these steps!
-
-For this exercise you'll be using your newfound knowledge of AJAX requests using the Open Weather API!!!
 
 1. Sign up for a free [Open Weather Map](https://home.openweathermap.org/users/sign_up) account!
 2. Once you've signed up, you're given an [API key](https://home.openweathermap.org/api_keys). Copy that API key and keep track of it somewhere!
@@ -17,7 +15,7 @@ For this exercise you'll be using your newfound knowledge of AJAX requests using
 http://api.openweathermap.org/data/2.5/weather?q=10025,us&units=imperial&appid=[YOUR API KEY HERE]
 ```
 
-#### You'll be working in `index.html`, `src/main.js`, and `styles/style.css`.
+#### Use `create-react-app` to get started. The name of the app is up to you.
 
 ## In the end, your weather app will look like this in the mobile view:
 
